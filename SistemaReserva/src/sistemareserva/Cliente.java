@@ -8,8 +8,9 @@ package sistemareserva;
  *
  * @author 40906973
  */
-public class Rede {
-    private String nomeRede;
-
+public class Cliente {
+    private String nomeCli;
+    private int codPostal;
+    private String email;
     
 }

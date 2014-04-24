@@ -8,8 +8,8 @@ package sistemareserva;
  *
  * @author 40906973
  */
-public class Rede {
-    private String nomeRede;
-
+public class Hotel {
+    private String nomeHotel;
+    private int codHotel;
     
 }
